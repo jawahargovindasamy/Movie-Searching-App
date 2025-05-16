@@ -48,7 +48,6 @@ This page renders a 404 page not found page. It displays a message indicating th
 ## Technologies used
 
 - ReactJS
-- Vite
 - Tailwind CSS
 - Flowbite
 - Axios
